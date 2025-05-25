@@ -1,0 +1,6 @@
+a = int(input('Digite o primeiro número inteiro: '))
+b = int(input('Digite o segundo número inteiro: '))
+c = float(input('Digite um número real: '))
+print((2 * a) * (b / 2))
+print((3 * a) + c)
+print(c ** 3)
